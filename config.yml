@@ -1,0 +1,6 @@
+name: "Shelly BLU RC Button 4"
+packageKey: "sam.shelly-blu-rc4"
+description: "SmartThings Edge driver for Shelly BLU RC Button 4 ZB"
+vendorSupportInformation: "Community driver"
+permissions:
+  zigbee: {}

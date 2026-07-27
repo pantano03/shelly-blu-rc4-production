@@ -1,0 +1,36 @@
+name: shelly-blu-rc4
+components:
+  - id: main
+    label: Button 1
+    capabilities:
+      - id: button
+        version: 1
+      - id: battery
+        version: 1
+      - id: refresh
+        version: 1
+    categories:
+      - name: RemoteController
+  - id: button2
+    label: Button 2
+    capabilities:
+      - id: button
+        version: 1
+    categories:
+      - name: RemoteController
+  - id: button3
+    label: Button 3
+    capabilities:
+      - id: button
+        version: 1
+    categories:
+      - name: RemoteController
+  - id: button4
+    label: Button 4
+    capabilities:
+      - id: button
+        version: 1
+    categories:
+      - name: RemoteController
+metadata:
+  deviceType: RemoteController

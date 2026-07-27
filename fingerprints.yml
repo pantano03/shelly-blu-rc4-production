@@ -1,0 +1,6 @@
+zigbeeManufacturer:
+  - id: "Shelly/BLU-RC-Button-4-ZB"
+    deviceLabel: "Shelly BLU RC Button 4"
+    manufacturer: "Shelly"
+    model: "BLU RC Button 4 ZB"
+    deviceProfileName: "shelly-blu-rc4"
